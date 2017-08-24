@@ -1,0 +1,5 @@
+DELAY 3000
+CTRL-SHIFT t
+DELAY 3000
+STRING /usr/bin/python /root/proj/PAYLOADS/speakerSensor.py
+ENTER
